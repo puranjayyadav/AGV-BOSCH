@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T20:57:18.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZMieGnZt_OOsStUbuuxb" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T21:02:49.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BkSYHGrJ80OCGce55g6w" version="21.6.5" type="github">
   <diagram name="Page-1" id="EQsBDep9IQR6B5dFmuFQ">
-    <mxGraphModel dx="1900" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1850" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,6 +103,9 @@
         <mxCell id="ibuRCf_rvzNH-uY2fulE-3" value="Start with this course&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-5" target="ibuRCf_rvzNH-uY2fulE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ibuRCf_rvzNH-uY2fulE-5" value="PYTHON 3 FUNDAMENTALS&lt;br&gt;https://www.udemy.com/course/python3-fundamentals/learn/lecture/35144926#overview" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1080" y="390" width="290" height="60" as="geometry" />
         </mxCell>
@@ -132,6 +135,18 @@
         </mxCell>
         <mxCell id="ibuRCf_rvzNH-uY2fulE-25" value="After doing this I would have solid fucking nderstanding of Python and Database Management" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1530" y="535" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-27" value="AFTER 6 MONTHS I SHOULD REACH THIS POINT" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="390" width="160" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-28" target="ibuRCf_rvzNH-uY2fulE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-28" value="After completing this course" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="250" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-30" value="&lt;div style=&quot;box-sizing: border-box; margin: 0px 0px 2.4rem; padding: 0px; font-family: &amp;quot;Udemy Sans&amp;quot;, &amp;quot;SF Pro Text&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; line-height: 1.4; color: rgb(28, 29, 31); text-align: start;&quot; data-purpose=&quot;title&quot; class=&quot;ud-text-md course-lead--course-title--2LxK6&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; DSA for Cracking the Coding&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Interview. &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Animated Examples for Faster Learning and Deeper Understanding.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; margin: 0px 0px 1.6rem; padding: 0px; display: flex; color: rgb(28, 29, 31); font-family: &amp;quot;Udemy Sans&amp;quot;, &amp;quot;SF Pro Text&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Segoe UI&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; font-size: 16px; text-align: start;&quot; data-purpose=&quot;course-stats&quot; class=&quot;course-lead--course-stats--2Szo- course-stats--course-stats--2KMtP&quot;&gt;&lt;div style=&quot;box-sizing: border-box; margin: 0px; padding: 0px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="175" width="230" height="175" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
