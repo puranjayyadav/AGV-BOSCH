@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" modified="2023-07-30T20:57:18.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZMieGnZt_OOsStUbuuxb" version="21.6.5" type="github">
+  <diagram name="Page-1" id="EQsBDep9IQR6B5dFmuFQ">
+    <mxGraphModel dx="1900" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0RDKALw-rvi0lFaXy5is-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-1" target="0RDKALw-rvi0lFaXy5is-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-1" value="Important IT Concepts" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="470" y="75" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-2" target="0RDKALw-rvi0lFaXy5is-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-2" target="0RDKALw-rvi0lFaXy5is-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-2" value="Data Science" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="75" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-4" target="0RDKALw-rvi0lFaXy5is-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-4" target="0RDKALw-rvi0lFaXy5is-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-4" value="Data Structures and Algorithms" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RDKALw-rvi0lFaXy5is-6" target="ibuRCf_rvzNH-uY2fulE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-6" value="Pre requisites&lt;br&gt;Learn Through C++" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="660" y="207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-8" target="0RDKALw-rvi0lFaXy5is-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-8" target="0RDKALw-rvi0lFaXy5is-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-8" value="Core Python" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="460" y="347.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0RDKALw-rvi0lFaXy5is-10" target="ibuRCf_rvzNH-uY2fulE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-10" value="Udemy course&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="660" y="347.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-12" target="0RDKALw-rvi0lFaXy5is-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-12" value="Data Science Arithmetic" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="207.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-14" target="0RDKALw-rvi0lFaXy5is-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-14" value="Computer Vision" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="347.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-16" value="Deep Learning" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="477.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-19" value="Interdependant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0RDKALw-rvi0lFaXy5is-20" target="ibuRCf_rvzNH-uY2fulE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-20" value="Database Engineering" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="467.5" width="140" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-22" target="0RDKALw-rvi0lFaXy5is-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-22" value="Resource List" style="shape=tape;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="75" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0RDKALw-rvi0lFaXy5is-23" target="0RDKALw-rvi0lFaXy5is-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-23" value="Udemy" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0RDKALw-rvi0lFaXy5is-25" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-1" target="ibuRCf_rvzNH-uY2fulE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-1" value="Python or C++?&lt;br&gt;Which is more closer to your target goal?&lt;br&gt;&lt;br&gt;PYTHON!!" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="186.25" width="160" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-3" target="ibuRCf_rvzNH-uY2fulE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-3" target="ibuRCf_rvzNH-uY2fulE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-3" value="Start with this course&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-5" value="PYTHON 3 FUNDAMENTALS&lt;br&gt;https://www.udemy.com/course/python3-fundamentals/learn/lecture/35144926#overview" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="390" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-7" target="ibuRCf_rvzNH-uY2fulE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-7" value="Deep Dive into Python Part 1 - 4 in order" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-11" value="Each course if about 36 hours of content&lt;br&gt;&lt;br&gt;So if I consume 1 hour of content daily,&lt;br&gt;&lt;br&gt;It should take about 6 months to complete the whole series with the basics" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="530" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-14" target="ibuRCf_rvzNH-uY2fulE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-14" value="Start with the classics&lt;br&gt;SQL and MongoDB" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="600" width="150" height="166.25" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-16" value="Should take around 22 hours to complete&lt;br&gt;&lt;br&gt;That means 22 days" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="706.25" width="130" height="83.76" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ibuRCf_rvzNH-uY2fulE-18" target="ibuRCf_rvzNH-uY2fulE-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=north;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="540" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ibuRCf_rvzNH-uY2fulE-25" value="After doing this I would have solid fucking nderstanding of Python and Database Management" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="535" width="170" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
